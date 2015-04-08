@@ -1,0 +1,9 @@
+#footer {
+    margin-top: 50px;
+    padding-bottom: 35px;
+}
+
+#footer .col-sm-6 {
+    padding-top: 35px;
+    border-top: solid 1px #dcdcdc;
+}
